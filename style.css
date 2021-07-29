@@ -1,0 +1,21 @@
+header{
+    background-color: #264653;
+}
+header p{
+    color: #E0E0E0;
+}
+main p{
+    color: #6C6C6C;
+}
+button{
+    background-color: #E76F51;
+}
+span{
+    color: #E76F51;
+}
+i{
+   color: #E77C40;
+}
+.bike{
+        filter: grayscale(100%);
+}
